@@ -75,3 +75,4 @@ D:\Stage Tunav\Tunav Tache1\Console\bin\Debug\net7.0\System.Diagnostics.EventLog
 D:\Stage Tunav\Tunav Tache1\Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 D:\Stage Tunav\Tunav Tache1\Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 D:\Stage Tunav\Tunav Tache1\Console\obj\Debug\net7.0\Console.csproj.Up2Date
+D:\Stage Tunav\Tunav Tache1\Console\obj\Debug\net7.0\Console.sourcelink.json

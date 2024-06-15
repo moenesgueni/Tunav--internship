@@ -1,18 +1,23 @@
 ﻿using Interfaces;
 using Core.Domain;
 using Services;
+using Infrastructure;
+
+Context context = new Context();
 
 Console.WriteLine("Hello, World!");
 Client client1 = new Client();
 client1.ClientId = 123456;
 client1.Name = "Moenes";
+context.Add(client1);
+
 Client client2 = new Client();
-client1.ClientId = 222222;
-client1.Name = "Ameni";
+client2.ClientId = 222222;
+client2.Name = "Ameni";
 
 Client client3 = new Client();
-client1.ClientId = 333333;
-client1.Name = "farah";
+client3.ClientId = 333333;
+client3.Name = "farah";
 
 Compte compte1 = new Compte();
 compte1.CompteId = 123040;

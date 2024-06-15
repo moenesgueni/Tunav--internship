@@ -16,6 +16,8 @@ namespace Infrastructure
     public class Context:DbContext
 
     {
+        public DbSet<Client> Clients { get; set; }
+        public DbSet<Compte> Comptes { get; set; }
         public IConfiguration _config { get; set; }
 
         public Context(IConfiguration config)
@@ -23,13 +25,28 @@ namespace Infrastructure
             _config = config;
         }
 
+        public Context()
+        {
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(_config.GetConnectionString("DatabaseConnection"));
-           // optionsBuilder.UseLazyLoadingProxies();
-           // base.OnConfiguring(optionsBuilder);
+            optionsBuilder.UseLazyLoadingProxies();
+            base.OnConfiguring(optionsBuilder);
         }
-        public DbSet<Client> Clients { get; set; }
-        public DbSet<Compte> Comptes { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
+
+        protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
+        {
+            configurationBuilder.Properties<DateTime>().HaveColumnType("datetime");
+            base.ConfigureConventions(configurationBuilder);
+        }
+
+
     }
 }

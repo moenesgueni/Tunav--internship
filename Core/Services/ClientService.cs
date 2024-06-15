@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace Core.Services
 {
-    public class ComptesService : Service<Compte>, ICompteService
+    public class ClientService : Service<Client>, IClientService
     {
-        public ComptesService(IUnitOfWork unitOfWork) : base(unitOfWork)
+        public ClientService(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
         }
     }

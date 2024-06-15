@@ -79,3 +79,4 @@ D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Core.pdb
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Castle.Core.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Ta.E0D820B6.Up2Date
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.sourcelink.json
