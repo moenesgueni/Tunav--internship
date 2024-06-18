@@ -5,6 +5,7 @@ namespace Core.Interfaces
 {
     public interface ICompteService:IService<Compte>
     {
+        public int ComptesNb();
 
     }
 }

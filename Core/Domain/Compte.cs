@@ -20,7 +20,6 @@ namespace Core.Domain
         public string lien { get; set; }
 
         public virtual Client Client{ get; set; }
-
         [ForeignKey("Client")]
         public int ClientFk { get; set; }
 

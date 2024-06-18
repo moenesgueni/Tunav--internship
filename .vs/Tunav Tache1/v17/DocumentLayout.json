@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\Stage Tunav\\Tunav Tache1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\services\\comptesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\services\\comptesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\icompteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\icompteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E0C8BE-9AE7-44CE-B173-2BC4A7ABAE83}|Console\\Console.csproj|d:\\stage tunav\\tunav tache1\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0C8BE-9AE7-44CE-B173-2BC4A7ABAE83}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B2B6-D7A3-4856-B13B-E726F2D8CC98}|Infrastructure\\Infrastructure.csproj|d:\\stage tunav\\tunav tache1\\infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B2B6-D7A3-4856-B13B-E726F2D8CC98}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E82B2B6-D7A3-4856-B13B-E726F2D8CC98}|Infrastructure\\Infrastructure.csproj|d:\\stage tunav\\tunav tache1\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E82B2B6-D7A3-4856-B13B-E726F2D8CC98}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{32C0A159-3267-464C-A9EB-B358CCC2CF2C}|Tunav Tache1\\Tunav Tache1.csproj|d:\\stage tunav\\tunav tache1\\tunav tache1\\tunav tache1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{32C0A159-3267-464C-A9EB-B358CCC2CF2C}|Tunav Tache1\\Tunav Tache1.csproj|solutionrelative:tunav tache1\\tunav tache1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E82B2B6-D7A3-4856-B13B-E726F2D8CC98}|Infrastructure\\Infrastructure.csproj|d:\\stage tunav\\tunav tache1\\infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E82B2B6-D7A3-4856-B13B-E726F2D8CC98}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E82B2B6-D7A3-4856-B13B-E726F2D8CC98}|Infrastructure\\Infrastructure.csproj|d:\\stage tunav\\tunav tache1\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,44 +63,12 @@
       "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\services\\comptesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\services\\comptesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\icompteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\icompteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|d:\\stage tunav\\tunav tache1\\core\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A8CA54-1ED9-4C0D-9C9A-69B66D26FEFB}|Core\\Core.csproj|solutionrelative:core\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4E0C8BE-9AE7-44CE-B173-2BC4A7ABAE83}|Console\\Console.csproj|d:\\stage tunav\\tunav tache1\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4E0C8BE-9AE7-44CE-B173-2BC4A7ABAE83}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C0A159-3267-464C-A9EB-B358CCC2CF2C}|Tunav Tache1\\Tunav Tache1.csproj|d:\\stage tunav\\tunav tache1\\tunav tache1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,189 +126,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:15:55.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\UnitOfWork.cs",
-              "RelativeToolTip": "Infrastructure\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:54:21.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Tunav Tache1.csproj",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Tunav Tache1\\Tunav Tache1.csproj",
-              "RelativeDocumentMoniker": "Tunav Tache1\\Tunav Tache1.csproj",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Tunav Tache1\\Tunav Tache1.csproj",
-              "RelativeToolTip": "Tunav Tache1\\Tunav Tache1.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T10:15:57.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Context.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Context.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Context.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Context.cs",
-              "RelativeToolTip": "Infrastructure\\Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:19:25.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T10:13:27.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Class1.cs",
-              "RelativeDocumentMoniker": "Core\\Class1.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Class1.cs",
-              "RelativeToolTip": "Core\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:49:25.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Service.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\Service.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\Service.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\Service.cs",
-              "RelativeToolTip": "Core\\Services\\Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:13:59.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComptesService.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ComptesService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\ComptesService.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ComptesService.cs",
-              "RelativeToolTip": "Core\\Services\\ComptesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:09:00.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClientService.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ClientService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\ClientService.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ClientService.cs",
-              "RelativeToolTip": "Core\\Services\\ClientService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:19:06.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:07:58.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IService.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IService.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IService.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IService.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:07:56.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:23:09.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICompteService.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\ICompteService.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\ICompteService.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\ICompteService.cs",
-              "RelativeToolTip": "Core\\Interfaces\\ICompteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:17:11.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "IClientService.cs",
               "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IClientService.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IClientService.cs",
               "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IClientService.cs",
               "RelativeToolTip": "Core\\Interfaces\\IClientService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T13:17:57.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\ClientService.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ClientService.cs",
+              "RelativeToolTip": "Core\\Services\\ClientService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:19:06.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComptesService.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ComptesService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\ComptesService.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\ComptesService.cs",
+              "RelativeToolTip": "Core\\Services\\ComptesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:09:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICompteService.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\ICompteService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ICompteService.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\ICompteService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ICompteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:17:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Domain\\Compte.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Compte.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Domain\\Compte.cs",
+              "RelativeToolTip": "Core\\Domain\\Compte.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:56:37.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Domain\\Client.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Client.cs",
@@ -321,29 +204,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Compte.cs",
-              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Domain\\Compte.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Compte.cs",
-              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Domain\\Compte.cs",
-              "RelativeToolTip": "Core\\Domain\\Compte.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:56:37.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Console\\Program.cs",
               "RelativeDocumentMoniker": "Console\\Program.cs",
               "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Console\\Program.cs",
               "RelativeToolTip": "Console\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T09:52:13.798Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Context.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Context.cs",
+              "RelativeToolTip": "Infrastructure\\Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:19:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IService.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:07:56.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:54:21.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tunav Tache1.csproj",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Tunav Tache1\\Tunav Tache1.csproj",
+              "RelativeDocumentMoniker": "Tunav Tache1\\Tunav Tache1.csproj",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Tunav Tache1\\Tunav Tache1.csproj",
+              "RelativeToolTip": "Tunav Tache1\\Tunav Tache1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T10:15:57.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:15:55.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T10:13:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:49:25.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Service.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Services\\Service.cs",
+              "RelativeToolTip": "Core\\Services\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:13:59.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:07:58.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Stage Tunav\\Tunav Tache1\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:23:09.265Z"
             },
             {
               "$type": "Document",

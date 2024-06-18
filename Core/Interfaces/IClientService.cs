@@ -10,5 +10,8 @@ namespace Core.Interfaces
 {
     public interface IClientService:IService<Client>
     {
+        public int ClientsNb();
+        IEnumerable<Client> GetClients(int n);
+        IEnumerable<Compte> GetComptes(Client client);
     }
 }

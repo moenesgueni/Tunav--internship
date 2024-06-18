@@ -14,5 +14,10 @@ namespace Core.Services
         public ComptesService(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
         }
+
+        public int ComptesNb()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
