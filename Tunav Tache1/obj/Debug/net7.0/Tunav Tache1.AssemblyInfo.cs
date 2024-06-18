@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tunav Tache1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19797cabfb500d8e56957b31f26628a5c9457c24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c60913422457b480bff9d33f7cdfb79dca831e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tunav Tache1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tunav Tache1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

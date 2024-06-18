@@ -13,6 +13,7 @@ namespace Core.Domain
         public int ClientId { get; set; }
         public string Name { get; set; }
         public virtual ICollection<Compte> Comptes { get; set; }
+        public ICollection<ClientClick> ClientClicks { get; set; }
 
         public override string ToString()
         {
