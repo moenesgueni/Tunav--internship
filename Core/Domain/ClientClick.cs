@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
+
+
+
 
 namespace Core.Domain
 {
@@ -11,10 +13,13 @@ namespace Core.Domain
     {
         [Key]
         public int ClientClickId { get; set; }
-        public int ClientId { get; set; }
-        public Client Client { get; set; }
+
+        public virtual Compte Compte { get; set; }
         public int CompteId { get; set; }
-        public Compte Compte { get; set; }
-        public DateTime ClickedAt { get; set; }
+
+        public virtual Client Client { get; set; }
+        public int ClientId { get; set; }
+
+        public DateTime date_dernier_cnx { get; set; }
     }
 }

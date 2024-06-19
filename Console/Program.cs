@@ -3,7 +3,7 @@ using Core.Domain;
 using Services;
 using Infrastructure;
 
-Context context = new Context();
+Infrastructure.TUContext context = new Infrastructure.TUContext();
 
 Console.WriteLine("Hello, World!");
 Client client1 = new Client();
