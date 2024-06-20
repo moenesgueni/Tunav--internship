@@ -2,14 +2,23 @@
 using Core.Domain;
 using Services;
 using Infrastructure;
+using Core.Services;
+using Core.Interfaces;
 
 Infrastructure.TUContext context = new Infrastructure.TUContext();
+IUnitOfWork uow = new UnitOfWork(context);
+IClientService clientService = new ClientService(uow);
+
 
 Console.WriteLine("Hello, World!");
 Client client1 = new Client();
 client1.ClientId = 123456;
 client1.Name = "Moenes";
 context.Add(client1);
+context.Clients.Add(client1);
+Console.WriteLine(clientService.ClientsNb());
+context.SaveChanges();
+
 
 Client client2 = new Client();
 client2.ClientId = 222222;

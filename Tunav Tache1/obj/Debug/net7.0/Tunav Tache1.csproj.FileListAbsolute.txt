@@ -6,42 +6,19 @@ D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Tunav Tache1.deps.json
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Tunav Tache1.runtimeconfig.json
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Tunav Tache1.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Tunav Tache1.pdb
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.csproj.AssemblyReference.cache
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.GeneratedMSBuildEditorConfig.editorconfig
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.AssemblyInfoInputs.cache
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.AssemblyInfo.cs
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.csproj.CoreCompileInputs.cache
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.MvcApplicationPartsAssemblyInfo.cache
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.RazorAssemblyInfo.cache
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.RazorAssemblyInfo.cs
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.Tunav Tache1.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.build.Tunav Tache1.props
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tunav Tache1.props
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tunav Tache1.props
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets.pack.json
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets.build.json
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets.development.json
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\scopedcss\bundle\Tunav Tache1.styles.css
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\scopedcss\projectbundle\Tunav Tache1.bundle.scp.css
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\refint\Tunav Tache1.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.pdb
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.genruntimeconfig.cache
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\ref\Tunav Tache1.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Humanizer.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\System.CodeDom.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Azure.Core.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Azure.Identity.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Castle.Core.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Humanizer.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
@@ -52,6 +29,8 @@ D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.IdentityMode
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\System.CodeDom.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\System.Drawing.Common.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
@@ -76,7 +55,28 @@ D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Core.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Infrastructure.dll
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Infrastructure.pdb
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Core.pdb
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Castle.Core.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
-D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Ta.E0D820B6.Up2Date
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.csproj.AssemblyReference.cache
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.AssemblyInfoInputs.cache
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.AssemblyInfo.cs
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.csproj.CoreCompileInputs.cache
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.MvcApplicationPartsAssemblyInfo.cache
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.RazorAssemblyInfo.cache
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.RazorAssemblyInfo.cs
 D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.sourcelink.json
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets.build.json
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets.development.json
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.Tunav Tache1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.build.Tunav Tache1.props
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tunav Tache1.props
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tunav Tache1.props
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\scopedcss\bundle\Tunav Tache1.styles.css
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\scopedcss\projectbundle\Tunav Tache1.bundle.scp.css
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Ta.E0D820B6.Up2Date
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\refint\Tunav Tache1.dll
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.pdb
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\Tunav Tache1.genruntimeconfig.cache
+D:\Stage Tunav\Tunav Tache1\Tunav Tache1\obj\Debug\net7.0\ref\Tunav Tache1.dll

@@ -19,6 +19,8 @@ namespace Infrastructure
     {
         public DbSet<Client> Clients { get; set; }
         public DbSet<Compte> Comptes { get; set; }
+        public DbSet<ClientClick> ClientClicks { get; set; }
+
 
         public IConfiguration _config { get; set; }
 
@@ -45,21 +47,24 @@ namespace Infrastructure
         }
 
 
-        public TUContext(DbContextOptions<TUContext> options)
-            : base(options)
-        {
-        }
+        //public TUContext(DbContextOptions<TUContext> options)
+        //    : base(options)
+        //{
+        //}
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<ClientClick>()
-                .HasOne(cc => cc.Client)
-                .WithMany(c => c.ClientClicks)
-                .OnDelete(DeleteBehavior.Restrict);  // No cascading delete
+            //modelBuilder.Entity<ClientClick>()
+            //    .HasOne(cc => cc.Client)
+            //    .WithMany(c => c.ClientClicks)
+            //    .OnDelete(DeleteBehavior.Restrict); 
 
-            modelBuilder.Entity<ClientClick>()
-                .HasOne(cc => cc.Compte)
-                .WithMany(c => c.ClientClicks)
-                .OnDelete(DeleteBehavior.Restrict);  // No cascading delete
+            //modelBuilder.Entity<ClientClick>()
+            //    .HasOne(cc => cc.Compte)
+            //    .WithMany(c => c.ClientClicks)
+            //    .OnDelete(DeleteBehavior.Restrict);
+            base.OnModelCreating(modelBuilder);
+
         }
     }
 
