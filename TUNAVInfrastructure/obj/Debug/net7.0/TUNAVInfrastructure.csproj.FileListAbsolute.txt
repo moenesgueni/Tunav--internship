@@ -1,0 +1,17 @@
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\bin\Debug\net7.0\TUNAVInfrastructure.deps.json
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\bin\Debug\net7.0\TUNAVInfrastructure.runtimeconfig.json
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\bin\Debug\net7.0\TUNAVInfrastructure.dll
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\bin\Debug\net7.0\TUNAVInfrastructure.pdb
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\bin\Debug\net7.0\TUNAVCore.dll
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\bin\Debug\net7.0\TUNAVCore.pdb
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.csproj.AssemblyReference.cache
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.AssemblyInfoInputs.cache
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.AssemblyInfo.cs
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.csproj.CoreCompileInputs.cache
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInf.9DFB23EA.Up2Date
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.dll
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\refint\TUNAVInfrastructure.dll
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.pdb
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\TUNAVInfrastructure.genruntimeconfig.cache
+D:\TunavInternship\TUNAV\TUNAVInfrastructure\obj\Debug\net7.0\ref\TUNAVInfrastructure.dll

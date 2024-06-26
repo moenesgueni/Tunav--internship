@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TunavInternship\\TUNAV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\domain\\clientclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\domain\\clientclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B410EA-8328-4726-8C5D-1363A88FCF65}|TUNAV\\TUNAV.csproj|d:\\tunavinternship\\tunav\\tunav\\tunav.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60B410EA-8328-4726-8C5D-1363A88FCF65}|TUNAV\\TUNAV.csproj|solutionrelative:tunav\\tunav.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|d:\\tunavinternship\\tunav\\tunavinfrastructure\\migrations\\20240626104854_2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|solutionrelative:tunavinfrastructure\\migrations\\20240626104854_2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\services\\clientclickservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\services\\clientclickservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|d:\\tunavinternship\\tunav\\tunavinfrastructure\\tunavcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|solutionrelative:tunavinfrastructure\\tunavcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B410EA-8328-4726-8C5D-1363A88FCF65}|TUNAV\\TUNAV.csproj|d:\\tunavinternship\\tunav\\tunav\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60B410EA-8328-4726-8C5D-1363A88FCF65}|TUNAV\\TUNAV.csproj|solutionrelative:tunav\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77BB521-58AE-4E0E-811F-288F6B3530EB}|TUNAVConsole\\TUNAVConsole.csproj|d:\\tunavinternship\\tunav\\tunavconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77BB521-58AE-4E0E-811F-288F6B3530EB}|TUNAVConsole\\TUNAVConsole.csproj|solutionrelative:tunavconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|d:\\tunavinternship\\tunav\\tunavinfrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|solutionrelative:tunavinfrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|d:\\tunavinternship\\tunav\\tunavinfrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|solutionrelative:tunavinfrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\interfaces\\iclientclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\interfaces\\iclientclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\tunavcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\tunavcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|d:\\tunavinternship\\tunav\\tunavinfrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874590B-D483-4ABB-8D3C-CCAEECDC1D73}|TUNAVInfrastructure\\TUNAVInfrastructure.csproj|solutionrelative:tunavinfrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|d:\\tunavinternship\\tunav\\tunavcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4741AF-4BC6-41DF-B78B-90C0DCE5E057}|TUNAVCore\\TUNAVCore.csproj|solutionrelative:tunavcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240626104854_2Migration.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\Migrations\\20240626104854_2Migration.cs",
+              "RelativeDocumentMoniker": "TUNAVInfrastructure\\Migrations\\20240626104854_2Migration.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\Migrations\\20240626104854_2Migration.cs",
+              "RelativeToolTip": "TUNAVInfrastructure\\Migrations\\20240626104854_2Migration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:48:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAV\\appsettings.json",
+              "RelativeDocumentMoniker": "TUNAV\\appsettings.json",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAV\\appsettings.json",
+              "RelativeToolTip": "TUNAV\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T10:43:36.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TUNAV",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAV\\TUNAV.csproj",
+              "RelativeDocumentMoniker": "TUNAV\\TUNAV.csproj",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAV\\TUNAV.csproj",
+              "RelativeToolTip": "TUNAV\\TUNAV.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T10:40:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TUNAVContext.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\TUNAVContext.cs",
+              "RelativeDocumentMoniker": "TUNAVInfrastructure\\TUNAVContext.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\TUNAVContext.cs",
+              "RelativeToolTip": "TUNAVInfrastructure\\TUNAVContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:17:35.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientClick.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Domain\\ClientClick.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Domain\\ClientClick.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Domain\\ClientClick.cs",
+              "RelativeToolTip": "TUNAVCore\\Domain\\ClientClick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:09:44.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientClickService.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Services\\ClientClickService.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Services\\ClientClickService.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Services\\ClientClickService.cs",
+              "RelativeToolTip": "TUNAVCore\\Services\\ClientClickService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:09:54.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Services\\ClientService.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Services\\ClientService.cs",
+              "RelativeToolTip": "TUNAVCore\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:09:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TUNAVInfrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "TUNAVInfrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:10:00.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TUNAVInfrastructure\\GenericRepository.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "TUNAVInfrastructure\\GenericRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:17:37.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Services\\Service.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Services\\Service.cs",
+              "RelativeToolTip": "TUNAVCore\\Services\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:09:56.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClientClick.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Interfaces\\IClientClick.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Interfaces\\IClientClick.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Interfaces\\IClientClick.cs",
+              "RelativeToolTip": "TUNAVCore\\Interfaces\\IClientClick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:09:52.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVConsole\\Program.cs",
+              "RelativeDocumentMoniker": "TUNAVConsole\\Program.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVConsole\\Program.cs",
+              "RelativeToolTip": "TUNAVConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:03:10.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Domain\\Compte.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Domain\\Compte.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Domain\\Compte.cs",
+              "RelativeToolTip": "TUNAVCore\\Domain\\Compte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:09:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Domain\\Client.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Domain\\Client.cs",
+              "RelativeToolTip": "TUNAVCore\\Domain\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:09:40.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TUNAVCore",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\TUNAVCore.csproj",
+              "RelativeDocumentMoniker": "TUNAVCore\\TUNAVCore.csproj",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\TUNAVCore.csproj",
+              "RelativeToolTip": "TUNAVCore\\TUNAVCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T10:07:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "TUNAVInfrastructure\\Class1.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVInfrastructure\\Class1.cs",
+              "RelativeToolTip": "TUNAVInfrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:04:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Class1.cs",
+              "RelativeDocumentMoniker": "TUNAVCore\\Class1.cs",
+              "ToolTip": "D:\\TunavInternship\\TUNAV\\TUNAVCore\\Class1.cs",
+              "RelativeToolTip": "TUNAVCore\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:04:00.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

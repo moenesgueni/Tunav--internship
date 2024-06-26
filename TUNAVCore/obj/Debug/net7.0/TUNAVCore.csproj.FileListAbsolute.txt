@@ -1,0 +1,12 @@
+D:\TunavInternship\TUNAV\TUNAVCore\bin\Debug\net7.0\TUNAVCore.deps.json
+D:\TunavInternship\TUNAV\TUNAVCore\bin\Debug\net7.0\TUNAVCore.dll
+D:\TunavInternship\TUNAV\TUNAVCore\bin\Debug\net7.0\TUNAVCore.pdb
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\TUNAVCore.csproj.AssemblyReference.cache
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\TUNAVCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\TUNAVCore.AssemblyInfoInputs.cache
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\TUNAVCore.AssemblyInfo.cs
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\TUNAVCore.csproj.CoreCompileInputs.cache
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\TUNAVCore.dll
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\refint\TUNAVCore.dll
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\TUNAVCore.pdb
+D:\TunavInternship\TUNAV\TUNAVCore\obj\Debug\net7.0\ref\TUNAVCore.dll
